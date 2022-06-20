@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.1"
+  },
+  "name": "hw10-oop-team-profile-gen",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tazaev/Object-Oriented-Programming-Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tazaev/Object-Oriented-Programming-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Tazaev/Object-Oriented-Programming-Team-Profile-Generator#readme"
+}
