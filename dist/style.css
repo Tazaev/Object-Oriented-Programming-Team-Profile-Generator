@@ -4,6 +4,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-color: aliceblue;
 }
 
 h1 {
@@ -23,8 +24,13 @@ h1 {
   padding: 30px;
   margin: 20px;
   color: white;
-  background-image: linear-gradient(to right, rgb(90, 82,rgb(59, 139, 205)eelblue);
-  text-align: left;
+  background: rgb(81, 74, 203);
+  background: linear-gradient(
+    180deg,
+    rgba(81, 74, 203, 1) 0%,
+    rgba(25, 124, 168, 1) 59%,
+    rgba(0, 212, 255, 1) 100%
+  );
 }
 
 .card:hover {
