@@ -23,6 +23,7 @@
 ## Tests:
 ### Run the following commands in the terminal to test this Generator:
 ### To test this project please Install the node package and then preceed with install "npm i jest". Afterwards the user can type "npm test" in the terminal and the code will be tested with the test files.
+![Untitled_ Jul 5, 2022 12_16 AM (1)](https://user-images.githubusercontent.com/104277419/177253615-b38a7544-94aa-4eb7-9f6c-888305e82ddb.gif)
 
 ## Questions:
 ### For any questions about this generator, please contact
