@@ -1,3 +1,35 @@
+# HW 10 Object-Oriented-Programming
+## License: MIT ![GitHub license](https://img.shields.io/github/license/naereen/strapDown.js.svg)
+### https://www.apache.org/licenses/LICENSE-2.0
+
+## Table of Contents:
+###  * [License](#license)
+###  * [Installation](#installation)
+###  * [Usage](#usage)
+###  * [Contributors](#contributors)
+###  * [Tests](#tests)
+###  * [Questions](#questions)
+
+## Installation:
+### The following must be installed for this Generator to function:
+### The user should install the npm packages of which are ("npm init", "npm i inquirer", and also "npm i jest")
+
+## Usage:
+### The use of this progject is to allow the user to create a easily readible spreadsheet that displays members of a team which comprise of a Manager and a subsequent amount of Engineers and interns that the user needs to account for. A html file is generated which will allow the user to view this chart.
+
+## Contributors:
+### please follow ethical guidelines and practice good coding practices!
+
+## Tests:
+### Run the following commands in the terminal to test this Generator:
+### To test this project please Install the node package and then preceed with install "npm i jest". Afterwards the user can type "npm test" in the terminal and the code will be tested with the test files.
+
+## Questions:
+### For any questions about this generator, please contact
+### Github: https://github.com/Tazaev
+### or
+### Email: tonymurtazaev@gmail.com
+
 # Object-Oriented-Programming-Team-Profile-Generator
 ## User Story
 
