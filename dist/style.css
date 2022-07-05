@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: steelblue;
+  font-size: 80px;
+}
+
+.link {
+  color: white;
+}
+
+.card {
+  display: inline-block;
+  height: 30%;
+  width: 20%;
+  border-radius: 15px;
+  padding: 30px;
+  margin: 20px;
+  color: white;
+  background-image: linear-gradient(to right, rgb(90, 82,rgb(59, 139, 205)eelblue);
+  text-align: left;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}

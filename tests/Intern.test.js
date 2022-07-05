@@ -20,7 +20,7 @@ test("gets the intern name", () => {
 test("gets the intern id", () => {
   const intern = new Intern("Benjamin", 7, "Benjamin@yahoo.com", "NYU");
 
-  expect(intern.getId()).toBe(90);
+  expect(intern.getId()).toBe(7);
 });
 
 test("gets the intern email", () => {
