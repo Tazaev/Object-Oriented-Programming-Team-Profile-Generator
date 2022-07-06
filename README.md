@@ -62,3 +62,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 ## Video demonstration of the application
+
+
+https://user-images.githubusercontent.com/104277419/177448265-230e03df-b79c-404d-bcb6-3ef11ce80f98.mp4
+
